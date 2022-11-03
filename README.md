@@ -1,7 +1,9 @@
 # BlueThemeDev
 Un tema especialmente desarrollado para todo aquel programador u editor de código que no le gusta el modo dark.
 
-## Version 0.0.1
+## Versión 0.0.2
+Se han agregado mejoras a los colores de los códigos de los lenguajes de programación, de código JSON y Markdown. 
+## Versión 0.0.1
 Esta es la versión inicial de este gran viaje, que con apoyo y trabajo se podrá convertir en una de los mejores temas de VSCode y posiblemente uno de los más descargados.
 
 ## ¿Quieres contribuir?
