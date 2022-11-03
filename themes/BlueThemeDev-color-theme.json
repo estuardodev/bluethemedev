@@ -1,0 +1,65 @@
+{
+	"name": "BlueThemeDev",
+	"type": "dark",
+	"colors": {
+		// Pantalla de bienvenida
+        "welcomePage.background": "#1C2A37",
+        "welcomePage.tileBackground": "#485561",
+        "welcomePage.tileHoverBackground": "#014989",
+        
+
+        // Barra lateral
+        "activityBar.foreground": "#FFF", //00FEFE
+        "activityBar.activeBackground": "#010E32",
+        "activityBar.background": "#17202A",
+        "activityBar.activeBorder": "#FFC100",
+        "activityBar.inactiveForeground": "#505C77",
+
+        // Editor
+        "editor.background": "#05002C",
+        "editor.foreground": "#FFF",
+        "editor.foldBackground": "#ff0000",
+        "editor.selectionBackground": "#004052",
+        "editor.lineHighlightBackground": "#323232",
+        
+
+        // Explorador
+        "sideBar.background": "#212F3D",
+        "sideBar.foreground": "#D6DBDF",
+        "sideBarSectionHeader.background": "#17202A",
+        "sideBarSectionHeader.foreground": "#D5DBDB",
+        
+        // Código
+
+
+        //Panel
+        "panel.background": "#001624",
+
+        // Terminal 
+        "terminal.background": "#001930",
+        "terminal.foreground": "#D4EBFF",
+        "terminal.selectionBackground": "#C6C6C6",
+        "terminal.selectionForeground": "#002575",
+        
+        // Barra de secciones 
+        "menu.background": "#012342",
+        "menubar.selectionBackground": "#001930",
+        "menubar.selectionForeground": "#FFF",
+
+        // Barra de titulos
+        "titleBar.activeBackground": "#002F3E",
+
+        // Barra de archivos
+        "editorGroupHeader.tabsBackground": "#001624",
+        "tab.inactiveBackground": "#00304E",
+
+        // Minimapa 
+        "minimap.background": "#00142E",
+        
+        // Barra de estado
+        "statusBar.background": "#3C0050",
+        "statusBar.foreground": "#f1f1f1",
+        "statusBar.noFolderBackground": "#3C0050",
+	},
+	
+}

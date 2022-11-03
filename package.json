@@ -1,0 +1,34 @@
+{
+  "name": "bluethemedev",
+  "displayName": "BlueThemeDev",
+  "description": "Esta extensión esta diseñada para todo aquel que busca algo para evitar usar el modo claro.",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BlueThemeDev",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BlueThemeDev-color-theme.json"
+      }
+    ]
+  },
+
+  "icon": "images/BlueThemeDev.png",
+  "author": {
+    "name": "Estuardo Ramírez",
+    "email": "estuardo@estuardodev.com",
+    "url": "https://estuardodev.com"
+  },
+  "repository": {
+    "url": "https://github.com/estuardodev/bluethemedev",
+    "type": "git"
+  },
+  "publisher": "theme-estuardodev-bluethemedev"
+
+}
