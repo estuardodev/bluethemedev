@@ -1,9 +1,6 @@
 # BlueThemeDev
 Un tema especialmente desarrollado para todo aquel programador u editor de código que no le gusta el modo claro.
 
-## Versión 0.0.3
-Se agregaron mejoras en los colores de métodos, constantes, funciones y más. Se mejoró la combinación de colores.
-
 ## Objetivo
 BlueThemeDev tiene como objetivo el tener una opción oscura y legible para todos esos desarrolladores que utilizan vscode durante largos periodos o por las noches.
 
